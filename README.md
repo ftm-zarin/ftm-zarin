@@ -56,3 +56,5 @@ I'm Fatemeh, a cryptography researcher specializing in Applied Cryptography. I'm
 I'm always excited to connect with fellow researchers, developers, and privacy enthusiasts. If you're interested in collaborating on a project that uses cryptography to solve real-world challenges, have questions about my work, or just want to discuss the future of secure systems, please feel free to reach out!
 
 * **Email:** [ftm.zariin@gmail.com](mailto:ftm.zariin@gmail.com)
+*  **Telegram:** https://t.me/ftm_zarin
+*  **Portfolio:** [ftm-zarin.github.io/portfolio](https://ftm-zarin.github.io/portfolio/)
