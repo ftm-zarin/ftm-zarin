@@ -6,7 +6,6 @@ I'm Fatemeh, a cryptography researcher specializing in Applied Cryptography. I'm
 
 * 🔎 Finishing my Master's thesis on **Zero-Knowledge Proofs for Machine Learning**.
 * 🧠 Deep-diving into the latest **proof systems** and cryptographic protocols.
-* 🗳️ Designing a **post-quantum e-voting system** to protect against voter coercion.
 * ⛓️ Exploring new applications for cryptography in **blockchain**.
 
 ---
